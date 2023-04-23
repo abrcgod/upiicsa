@@ -1,0 +1,6 @@
+projectKey=mx.ipn.upiicsa.poo:practica04
+serverUrl=http://localhost:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9000/dashboard?id=mx.ipn.upiicsa.poo%3Apractica04
+ceTaskId=AYenPePYIiZuuvVrgUj4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYenPePYIiZuuvVrgUj4
